@@ -19,13 +19,19 @@ h2{
 
 }
 #main-bio {
+    float: left;
+    width: 70%;
 
 }
 
 #contact-info {
+    width: 30%;
 
 }
 
 #bio-image {
 transform: rotate(180deg);
+float: left;
+width: 200px;
+height: 200px;
 }
