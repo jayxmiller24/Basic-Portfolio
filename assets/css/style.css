@@ -14,18 +14,22 @@ body{
     }
     h2{
         font-size: 24px;
+    
     }
     
+#bio-image {
+    transform: rotate(180deg);
+    width: 200px;
+    height: 200px;
+    float: left;
+    margin: 20px
+}
+    
     #main-bio {
+    
         float: left;
         
-    }
-    #bio-image {
-        transform: rotate(180deg);
-        width: 200px;
-        height: 200px;
-        float: left;
-        margin: 20px;
+    
         
     }
     #contact-info {
